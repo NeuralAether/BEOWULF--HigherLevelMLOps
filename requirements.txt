@@ -1,0 +1,7 @@
+numpy
+pandas
+pyspark # Requires Java
+matplotlib
+seaborn
+jax-metal 
+jaxlib
